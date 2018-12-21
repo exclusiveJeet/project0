@@ -16,7 +16,7 @@ Game will announce the Winner if any, otherwise announce the game as TIE. Press 
 
 ## Snapshots
 
-![Image](images/s1.png "icon");
-![Image](images/s2.png "icon");
-![Image](images/s3.png "icon");
+![Image](s1.png "icon");
+![Image](s2.png "icon");
+![Image](s3.png "icon");
 
